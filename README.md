@@ -8,6 +8,7 @@ This app is made for making code snippets and save it in your device for further
 Check the changelog of the latest version from [releases page](https://github.com/subhamsinhadev/Code-Snippet-Maker/releases). 
 ### Features:
 * Simple and intuitive interface
+* Dynamic Theming
 * No root access required
 * Completely free with no in-app purchases
 * Material Theme 
