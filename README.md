@@ -11,7 +11,9 @@ Check the changelog of the latest version from [releases page](https://github.co
 * No root access required
 * Completely free with no in-app purchases
 * Material Theme 
-* 
+* Less Size
+* Simple Ui
+* Custom Directory
 
 ### Instructions:
 - Download the latest release apk.
