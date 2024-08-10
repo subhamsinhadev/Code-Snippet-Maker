@@ -25,7 +25,7 @@ Check the changelog of the latest version from [releases page](https://github.co
 - All devices are compatible.
 - Turn off Play Protect so you can install without issues.
 
-Ads Regex app built by [Subham Kumar Sinha](https://t.me/subhamsinha). You can join our channel [here](https://t.me/AideTutorial). Contact Us [here](https://t.me/masked_modder) for more information or suggestions.
+ Code Snippet Maker app built by [Subham Kumar Sinha](https://t.me/subhamsinha). You can join our channel [here](https://t.me/AideTutorial). Contact Us [here](https://t.me/masked_modder) for more information or suggestions.
 ### Preview:
 ![Code Snippet Maker](https://github.com/subhamsinhadev/Code-Snippet-Maker/blob/main/Preview_pic.jpg)
 
